@@ -1,2 +1,2 @@
 # vpcc-workshop
-first repo
+Tianlynn (Quinn) Wang
